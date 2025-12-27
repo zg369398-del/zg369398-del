@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Meow+🐱+I+am+typing...;Welcome+to+my+GitHub!)
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+
+---
+✨ Thanks for visitin
 
 <!--
 **zg369398-del/zg369398-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
